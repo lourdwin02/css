@@ -1,0 +1,32 @@
+table, th, td {
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+
+.blue
+{
+background-color:blue;
+}
+
+.lightblue
+{
+background-color: lightblue;
+}
+
+.a
+{
+  background-color:orange;
+}
+.b{
+  background-color:purple;
+}
+.c{
+  background-color: green;
+}
+.d{
+  background-color: yellow
+}
+
+.e{
+background-color:red
+}
